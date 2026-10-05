@@ -35,7 +35,14 @@ run.bat                          # macOS/Linux: ./run.sh   (starts backend + fro
 ```
 Frontend: <http://localhost:8501> · Backend API docs: <http://127.0.0.1:8000/docs>
 
-## 👥 Team
-- [Your Name] – [Roll no. / Role]
+## 👥 Team:
+Team ID : SWTID-2026-6032
+Team Size : 5
+Team Leader : Sathis S
+Team member : Madhan N
+Team member : Pradeep Kumar P
+Team member : Naveenthiran S
+Team member : Nishanth P
+
 
 > Built as part of the SmartBridge / SmartInternz program.
